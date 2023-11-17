@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nadar/quill-delta-parser": "*",
+        "smarty/smarty": "*"
+    }
+}
